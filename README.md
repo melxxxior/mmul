@@ -1,1 +1,2 @@
 # mmul
+Matrix multiplication optimisation
